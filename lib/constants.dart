@@ -16,6 +16,10 @@ const drawerTexto = TextStyle(
   color: palette5,
   fontSize: 22,
 );
+const drawerTextoEnd = TextStyle(
+  color: palette5,
+  fontSize: 25,
+);
 
 const textoPaginaPrincipal = TextStyle(
   color: palette4,
