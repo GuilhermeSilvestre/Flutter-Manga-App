@@ -158,7 +158,7 @@ class _MyHomePageState extends State<MyHomePage> {
   }
 
   Future<bool> getFutureDados() async =>
-      await Future.delayed(Duration(seconds: 20), () {
+      await Future.delayed(Duration(seconds: 25), () {
         return true;
       });
 
